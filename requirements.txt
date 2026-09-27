@@ -1,0 +1,11 @@
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+gymnasium>=0.29
+stable-baselines3>=2.2
+torch>=2.0
+streamlit>=1.30
+# Optional, only needed for live TSRD dataset pull (Step 10). Project runs fully
+# without these thanks to the built-in offline fallback in data/tsrd_loader.py
+# datasets>=2.14
+# huggingface_hub>=0.20

@@ -1,0 +1,67 @@
+{
+  "Open-Loop": {
+    "Pd (Probability of Detection)": 0.295,
+    "Miss Rate on Watched Bands": 0.705,
+    "Sensitivity": 0.1105,
+    "Avg Intercept Rate (hits/timestep)": 0.295,
+    "Avg Reward": 0.2598,
+    "One-Step Prediction Accuracy": 72.31,
+    "Avg Intercept Time (steps)": 3.397,
+    "Avg Intercept Time Error": 3.022,
+    "Total Hits": 59,
+    "Total Watched Slots": 200,
+    "Total Active Slots (ground truth)": 534
+  },
+  "Epsilon-Greedy": {
+    "Pd (Probability of Detection)": 0.305,
+    "Miss Rate on Watched Bands": 0.695,
+    "Sensitivity": 0.1142,
+    "Avg Intercept Rate (hits/timestep)": 0.305,
+    "Avg Reward": 0.2703,
+    "One-Step Prediction Accuracy": 72.86,
+    "Avg Intercept Time (steps)": 3.267,
+    "Avg Intercept Time Error": 2.892,
+    "Total Hits": 61,
+    "Total Watched Slots": 200,
+    "Total Active Slots (ground truth)": 534
+  },
+  "UCB1": {
+    "Pd (Probability of Detection)": 0.3,
+    "Miss Rate on Watched Bands": 0.7,
+    "Sensitivity": 0.1124,
+    "Avg Intercept Rate (hits/timestep)": 0.3,
+    "Avg Reward": 0.265,
+    "One-Step Prediction Accuracy": 72.76,
+    "Avg Intercept Time (steps)": 3.339,
+    "Avg Intercept Time Error": 2.964,
+    "Total Hits": 60,
+    "Total Watched Slots": 200,
+    "Total Active Slots (ground truth)": 534
+  },
+  "Thompson Sampling": {
+    "Pd (Probability of Detection)": 0.325,
+    "Miss Rate on Watched Bands": 0.675,
+    "Sensitivity": 0.1217,
+    "Avg Intercept Rate (hits/timestep)": 0.325,
+    "Avg Reward": 0.2913,
+    "One-Step Prediction Accuracy": 73.27,
+    "Avg Intercept Time (steps)": 3.078,
+    "Avg Intercept Time Error": 2.704,
+    "Total Hits": 65,
+    "Total Watched Slots": 200,
+    "Total Active Slots (ground truth)": 534
+  },
+  "Whittle-Index": {
+    "Pd (Probability of Detection)": 0.34,
+    "Miss Rate on Watched Bands": 0.66,
+    "Sensitivity": 0.1273,
+    "Avg Intercept Rate (hits/timestep)": 0.34,
+    "Avg Reward": 0.307,
+    "One-Step Prediction Accuracy": 73.37,
+    "Avg Intercept Time (steps)": 2.955,
+    "Avg Intercept Time Error": 2.581,
+    "Total Hits": 68,
+    "Total Watched Slots": 200,
+    "Total Active Slots (ground truth)": 534
+  }
+}

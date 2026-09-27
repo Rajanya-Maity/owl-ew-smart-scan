@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+# muted indigo-blend for the main canvas, not pure black — easier on the eyes
+backgroundColor = "#1a1526"
+# a touch lighter for cards/containers, still in the same purple-blue family
+secondaryBackgroundColor = "#241d38"
+# off-white, not pure white, so long reading sessions are gentler
+textColor = "#e6e2f0"
+# muted sage/forest green accent for buttons, sliders, active tab underline —
+# deliberately desaturated, not neon
+primaryColor = "#5f9d7a"
+font = "monospace"
