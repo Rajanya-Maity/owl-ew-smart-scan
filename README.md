@@ -196,4 +196,4 @@ huggingface_hub>=0.20
 **Project:** O.W.L. EW — Smart Scan Strategy for Electronic Warfare
 **Context:** SIH 2026 · PS 26055 · DRDO
 **Author:** Rajanya Maity
-**Collaborator:**
+**Collaborator:** Aditi Singh
