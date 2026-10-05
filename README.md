@@ -14,7 +14,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white">
   <img alt="Framework" src="https://img.shields.io/badge/RL-Stable--Baselines3-6f9ceb">
   <img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-Streamlit-ff4b4b?logo=streamlit&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/status-research%20prototype-yellow">
 </p>
 
 ---
@@ -189,6 +188,12 @@ datasets>=2.14
 huggingface_hub>=0.20
 ```
 
+---
+
+## License
+
+Copyright (c) 2026 Rajanya Maity. All rights reserved. 
+This software is proprietary. Unauthorized copying, modification, or distribution is strictly prohibited.
 ---
 
 ## Credits
